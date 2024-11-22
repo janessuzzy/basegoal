@@ -25,8 +25,8 @@
 
 ## 📂 Project Structure
 <div>
-`Base Goal/` <br>
-`├── index.html   # Main HTML file` <br>
-`├── style.css    # Styling for the animation`<br>
-`└── script.js    # Animation logic`
+Base Goal/ <br>
+├── index.html   # Main HTML file <br>
+`├── style.css    # Styling for the animation <br>
+└── script.js    # Animation logic
 </div>
