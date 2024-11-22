@@ -2,8 +2,7 @@
 <p>Base Goal is a sleek and minimalistic animation project highlighting key principles every base builder should focus on. It features smooth text animations to emphasize critical messages sequentially.</p>
 
 ## DEMO
-
-<img src="https://ezgif.com/video-to-gif/ezgif-4-74f6da15fa.mp4">
+https://basegoal.netlify.app/
 
 ## ✨ Features
 
