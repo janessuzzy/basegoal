@@ -11,9 +11,9 @@
 <p>A reminder for builders to focus on simplicity, user needs, and blockchain integration in their projects.</p>
 
 ## 🛠️ Installation
-1. Clone the repository:
-<p> `git clone https://github.com/your-username/base-goal.git`
-</p>
+1. Clone the repository: <br>
+`git clone https://github.com/your-username/base-goal.git`
+
 2. Open the index.html file in your browser.
 
 ## 📖 Key Messages
@@ -25,8 +25,8 @@
 
 ## 📂 Project Structure
 <div>
-`Base Goal/`
-`├── index.html   # Main HTML file`
-`├── style.css    # Styling for the animation`
+`Base Goal/` <br>
+`├── index.html   # Main HTML file` <br>
+`├── style.css    # Styling for the animation`<br>
 `└── script.js    # Animation logic`
 </div>
